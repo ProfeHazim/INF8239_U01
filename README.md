@@ -1,4 +1,4 @@
-# INF-8239 Ciencia de Datos II - Práctica Unidad 01
+# INF-8239 Ciencia de Datos II - Práctica Unidad 01 Laboratorio 01
 
 ## Descripción del Proyecto
 Implementación de un flujo de trabajo reproducible en Python para la carga de datos, análisis exploratorio y entrenamiento de un modelo de clasificación basado en Máquinas de Vectores de Soporte (**SVM**), utilizando el dataset público de cáncer de mama de *scikit-learn*.
